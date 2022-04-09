@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleLog", "SampleLog.csproj", "{3A9EE252-71D8-49F7-93C2-3A9B3EF44CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9EE252-71D8-49F7-93C2-3A9B3EF44CBB}.Debug|x64.ActiveCfg = Debug|x64
+		{3A9EE252-71D8-49F7-93C2-3A9B3EF44CBB}.Debug|x64.Build.0 = Debug|x64
+		{3A9EE252-71D8-49F7-93C2-3A9B3EF44CBB}.Release|x64.ActiveCfg = Release|x64
+		{3A9EE252-71D8-49F7-93C2-3A9B3EF44CBB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8760D6-B4C8-408B-8A40-9FEE1BFF038F}
+	EndGlobalSection
+EndGlobal

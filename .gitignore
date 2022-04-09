@@ -1,0 +1,10 @@
+.vscode/
+SampleLog/.vs/
+SampleLog/obj/
+vc140.pdb
+main.exe
+main.ilk
+main.obj
+main.pdb
+SampleLog.dll
+start_vscode.bat
